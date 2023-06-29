@@ -23,10 +23,17 @@ To use the Plant Leaf Diseases Prediction system with YOLOv8, the following requ
 <b>*Training Data* </b>: The accuracy and coverage of disease detection depend on the training data used to train the YOLOv8 model. The system should be regularly updated with new and diverse datasets to improve its performance.
 <hr>
 
+### Dataset<br>
+
+<a href="https://app.roboflow.com/jitesh-md/plant-leaf-disease-7tgj9/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true">Reference Link</a>
+
+<hr>
+
 ### Output 
 
 ![label](https://github.com/Gokulprasanth-t/Plant-Leaf-Diseases-Detection/assets/121724612/ce999979-5d55-483b-b138-8eb2361b5bf2)
 <br><br><hr>
+
 ### Conclusion
 
 The Plant Leaf Diseases Prediction system using YOLOv8 is a tool for assisting in disease detection, but it should not replace professional advice from plant pathology experts. Always consult with knowledgeable professionals for accurate diagnoses and appropriate treatments.
